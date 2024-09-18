@@ -1,0 +1,36 @@
+# Ignore test files
+/tests
+/*.test.js
+
+# Ignore development environment files
+/.env
+/.env.local
+
+# Ignore build tools and config files
+/webpack.config.js
+/rollup.config.js
+/gulpfile.js
+
+# Ignore local development files
+/node_modules
+/coverage
+/dist
+/out
+
+# Ignore git and version control
+/.git
+/.gitignore
+
+# Ignore logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore editor files
+/.vscode
+/.idea
+*.swp
+
+# Ignore files specific to OS
+.DS_Store
+Thumbs.db

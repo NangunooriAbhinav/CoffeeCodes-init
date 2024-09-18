@@ -1,0 +1,19 @@
+{
+  "name": "coffeecodes-init",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Custom Next init for CoffeeCodes",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^11.0.2"
+  },
+  "bin":{
+    "coffeecodes-init": "index.js"
+  }
+}
