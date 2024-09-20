@@ -11,6 +11,7 @@
   "description": "Custom Next init for CoffeeCodes",
   "dependencies": {
     "commander": "^12.1.0",
+    "fs-extra": "^10.1.0",
     "inquirer": "^11.0.2"
   },
   "bin": {
